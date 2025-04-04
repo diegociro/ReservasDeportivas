@@ -30,9 +30,6 @@ public class SistemaReservasDeportivas {
     
     /**
      * Reservamos la pista (asumiento que hay 10 max por ejemplo)
-     * @param idPista: ID de la pista
-     * @param fecha: fecha de la reserva
-     * @param duracion: duracion de la reserva.
      * @return true reserva exitosa, si no false.
      */
 
